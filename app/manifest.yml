@@ -1,0 +1,10 @@
+---
+applications:
+- name: LaurensLovelyLandscapes
+  buildpack: https://github.com/joshuamckenty/heroku-buildpack-python
+  memory: 256M
+  instances: 1
+  url: LaurensLovelyLandscapes${random-word}.${target-base}
+  host: LaurensLovelyLandscapes-${random-word}
+  path: .
+  command: python wsgi.py
