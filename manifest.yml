@@ -6,5 +6,5 @@ applications:
   instances: 1
   url: LaurensLovelyLandscapes${random-word}.${target-base}
   host: LaurensLovelyLandscapes-${random-word}
-  path: ./app
+  path: .
   command: python wsgi.py
