@@ -67,7 +67,7 @@
   <tr> -->
   <div class="hero-unit">
   <div>
-  <h2><em>Antractica</em><h2> </div>
+  <h2><em>Antarctica</em><h2> </div>
   <br/>
   
 		<img src="/static/images/penguin.jpg" class="sale-photo">
