@@ -2,7 +2,7 @@
 
 ## Overview of the app ##
 
-This is a sample online store that sells prints.  For a running version of the app, visit http://laurenslovelylandscapes.ng.bluemix.net.
+This is a sample online store that sells prints.  For a running version of the app, visit http://laurenslovelylandscapes.mybluemix.net.
 
 This is a Python app that uses the [Bottle framework](http://bottlepy.org/docs/dev/).  It does not use any BlueMix services.
 
