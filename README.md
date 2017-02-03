@@ -6,6 +6,7 @@ This is a sample online store that sells prints.  For a running version of the a
 
 This is a Python app that uses the [Bottle framework](http://bottlepy.org/docs/dev/).  It does not use any Bluemix Services.
 
+## WMS-toolchain-repo is the git repository
 		
 ## Associated Tutorial ##
 
