@@ -4,7 +4,7 @@ applications:
   buildpack: python_buildpack
   memory: 256M
   instances: 1
-  host: Laurens-Lovely-Landscapes-wmschwar-1613
   path: .
   command: python wsgi.py
   random-route: true
+#  host: Laurens-Lovely-Landscapes-wmschwar-1613
